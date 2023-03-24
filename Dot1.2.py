@@ -1,5 +1,5 @@
 
-def najbliżej_n(n)
+def najbliżej_n(n):
   a = int(input('podaj a'))
   b = a-n
   if b < 0:
