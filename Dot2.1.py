@@ -1,7 +1,6 @@
 
 n = int(input('Podaj dzielnik'))
 
-
 a=int(input('Wprowadź dane'))
 minimum = a
 najmniejsza_reszta_z_dzielenia = a%n
@@ -13,4 +12,4 @@ while i < 4:
     najmniejsza_reszta_z_dzielenia = a%n
   i=i+1
 
-print('Najmniejsza jest reszta z dzielenia',na,'przez',n,'równa',na%n )
+print('Najmniejsza jest reszta z dzielenia',minimum,'przez',n,'równa',minimum%n )
