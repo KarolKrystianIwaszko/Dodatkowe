@@ -1,4 +1,5 @@
 
+
 n = int(input('podaj n'))
 
 a = int(input('podaj a'))
