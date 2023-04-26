@@ -21,6 +21,6 @@ int main()
     
     c = a/b;
     
-    cout << a << " dzielone na " << b << " to " << c;
+    cout << c;
     return c;
 }
